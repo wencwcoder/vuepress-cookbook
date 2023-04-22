@@ -7,6 +7,7 @@ module.exports = {
   title: "wen",
   // description: "ǝɯ ɹǝqɯǝɯǝɹ noʎ ǝdoɥ",
   description: "vuepres vuepress-theme-reco blog",
+  base: '/vuepress-cookbook/', // https://foo.github.io/repo/
   dest: "dist",
   head: [
     ["link", {
