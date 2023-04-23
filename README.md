@@ -12,7 +12,7 @@ tagline: 越闲，越矫情
 #   borderRadius: '1rem',
 # }
 # 指定 type: "blog"
-bgImage: /img/common/hero.png
+bgImage: /img/common/hero.jpg
 bgImageStyle: {
   height: '520px'
 }
