@@ -1,2 +1,0 @@
-# vuepress-cookbook
-gh-pages
