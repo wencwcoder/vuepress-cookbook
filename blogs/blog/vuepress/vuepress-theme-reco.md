@@ -255,7 +255,7 @@ module.exports = {
 ```markdown
 ---
 home: true
-heroImage: /hero.png
+heroImage: /hero.jpg
 heroText: null
 ---
 ```
@@ -265,7 +265,7 @@ heroText: null
 ```markdown
 ---
 home: true
-heroImage: /hero.png
+heroImage: /hero.jpg
 heroImageStyle: {
   maxHeight: '200px',
   display: block,
