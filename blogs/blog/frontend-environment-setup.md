@@ -221,6 +221,7 @@ Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code
 CodeSnap
 CSS Peek
 DotENV
+Draw.io Integration
 [❌] EditorConfig for VS Code
 ESLint
 Git History
