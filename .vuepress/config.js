@@ -12,7 +12,7 @@ module.exports = {
   head: [
     ["link", {
       rel: "icon",
-      href: "/img/common/favicon.ico"
+      href: "/vuepress-cookbook/img/common/favicon.ico"
     }],
     ["meta", {
       name: "viewport",
@@ -47,12 +47,12 @@ module.exports = {
       }
     },
     friendLink,
-    // logo: "/img/common/logo.png",
+    // logo: "/vuepress-cookbook/img/common/logo.png",
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
     author: "wen",
-    authorAvatar: "/img/common/avatar.png",
+    authorAvatar: "/vuepress-cookbook/img/common/avatar.png",
     record: "xxxx",
     startYear: "2021",
     serviceWorker: {

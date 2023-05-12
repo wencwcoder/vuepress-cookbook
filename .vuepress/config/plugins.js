@@ -32,9 +32,9 @@ module.exports = [
   [
     "vuepress-plugin-dynamic-title",
     {
-      showIcon: "/img/common/favicon.ico",
+      showIcon: "/vuepress-cookbook/img/common/favicon.ico",
       showText: "(/≧▽≦/)咦！又好了！",
-      hideIcon: "/img/common/favicon.ico",
+      hideIcon: "/vuepress-cookbook/img/common/favicon.ico",
       hideText: "(●—●)喔哟，崩溃啦！",
       recoverTime: 2000,
     },
@@ -97,8 +97,8 @@ module.exports = [
         {
           name: "彩虹",
           artist: "周杰伦",
-          url: "/bgm-player/彩虹.mp3",
-          cover: "/bgm-player/彩虹.png",
+          url: "/vuepress-cookbook/bgm-player/彩虹.mp3",
+          cover: "/vuepress-cookbook/bgm-player/彩虹.png",
         },
         // 网络文件示例 -- github
         {
