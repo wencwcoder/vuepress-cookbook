@@ -47,12 +47,12 @@ module.exports = {
       }
     },
     friendLink,
-    // logo: "/vuepress-cookbook/img/common/logo.png",
+    // logo: "/img/common/logo.png",
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
     author: "wen",
-    authorAvatar: "/vuepress-cookbook/img/common/avatar.png",
+    authorAvatar: "/img/common/avatar.png",
     record: "xxxx",
     startYear: "2021",
     serviceWorker: {
