@@ -223,6 +223,7 @@ CSS Peek
 DotENV
 Draw.io Integration
 [❌] EditorConfig for VS Code
+Error Lens
 ESLint
 Git History
 GitHub Copilot
